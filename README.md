@@ -133,6 +133,14 @@ This project presents an end-to-end **data science solution** for analyzing and 
 This project demonstrates a complete workflow from **raw data to actionable insights and predictive modeling**. It highlights how data can be leveraged to improve decision-making in e-commerce businesses.
 
 ---
+## 💡 Business Impact
+
+- Identified revenue concentration risk in top category  
+- Detected ~5% revenue loss due to returns and cancellations  
+- Segmented products to optimize inventory and marketing strategy  
+- Built predictive model to support sales forecasting  
+
+👉 This project demonstrates how data-driven insights can improve profitability and decision-making in e-commerce businesses.
 
 ## 🔗 Author
 
