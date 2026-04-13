@@ -99,6 +99,19 @@ This project builds an end-to-end e-commerce analytics system to uncover revenue
 > The model demonstrates moderate predictive power, capturing key revenue drivers. However, performance is limited due to missing features such as pricing variations, discounts, and customer behavior.
 
 ---
+## 📊 Key Visual Insights
+
+![Revenue by Category](images/category_revenue.png)
+*Shows that one category dominates overall revenue.*
+
+![Monthly Trend](images/monthly_trend.png)
+*Highlights fluctuations and possible seasonal patterns.*
+
+![Order Status Impact](images/status_impact.png)
+*Indicates revenue loss due to returns and cancellations.*
+
+![Product Segmentation](images/cluster_plot.png)
+*Visualizes clustering of high, mid, and low performing products.*
 
 ## 🧠 Key Learnings
 
