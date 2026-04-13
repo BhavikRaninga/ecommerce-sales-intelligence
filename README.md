@@ -4,7 +4,7 @@ https://colab.research.google.com/github/BhavikRaninga/ecommerce-sales-intellige
 
 ## 🚀 Project Overview
 
-This project presents an end-to-end **data science solution** for analyzing and optimizing e-commerce business performance. It combines **data cleaning, business analytics, machine learning, and visualization** to uncover revenue drivers, operational inefficiencies, and growth opportunities.
+This project builds an end-to-end e-commerce analytics system to uncover revenue drivers, identify profit leakage, segment products using machine learning, and predict future sales performance.
 
 ---
 
@@ -138,9 +138,9 @@ This project demonstrates a complete workflow from **raw data to actionable insi
 - Identified revenue concentration risk in top category  
 - Detected ~5% revenue loss due to returns and cancellations  
 - Segmented products to optimize inventory and marketing strategy  
-- Built predictive model to support sales forecasting  
+- Built predictive model to support sales forecasting
+- Built regression model achieving R² ≈ 0.41 
 
-👉 This project demonstrates how data-driven insights can improve profitability and decision-making in e-commerce businesses.
 
 ## 🔗 Author
 
